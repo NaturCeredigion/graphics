@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="cnp-logotype.svg"
-   inkscape:export-filename="cnp-logotype.png"
+   sodipodi:docname="cnp-logotype-white-bg.svg"
+   inkscape:export-filename="cnp-logotype-white-bg.png"
    inkscape:export-xdpi="157.12106"
    inkscape:export-ydpi="157.12106"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -229,6 +229,13 @@
          id="layer5"
          inkscape:label="Trees"
          style="display:inline">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+           id="rect241"
+           width="193.99052"
+           height="74.765366"
+           x="0"
+           y="0" />
         <g
            id="g1794">
           <text
